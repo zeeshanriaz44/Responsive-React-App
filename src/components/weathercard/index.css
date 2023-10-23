@@ -1,0 +1,24 @@
+.card {
+  border: 1px solid black;
+  border-radius: 25px;
+  margin: 20px;
+  padding: 20px;
+  background-color: whitesmoke;
+}
+/* * {
+  font-family: "Times New Roman", Times, serif;
+} */
+.weabtn {
+  padding: 7px 9px;
+  border-radius: 6px;
+  border: 3px solid black;
+  text-transform: capitalize;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.weabtn:hover {
+  background-color: green;
+  color: white;
+  transition: 3s;
+}

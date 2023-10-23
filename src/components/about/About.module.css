@@ -1,0 +1,17 @@
+.about {
+  min-height: 50vh;
+  background-color: yellowgreen;
+  padding: 10px;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: center;
+  align-items: center;
+}
+.about > div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 10px;
+}
